@@ -119,15 +119,15 @@
                 </div>
                 <div class="about-stats">
                     <div class="stat-card">
-                        <span class="stat-number">?</span>
+                        <span class="stat-number">4</span>
                         <span class="stat-label">Speakers</span>
                     </div>
                     <div class="stat-card">
-                        <span class="stat-number">?</span>
+                        <span class="stat-number">50+</span>
                         <span class="stat-label">Attendees</span>
                     </div>
                     <div class="stat-card">
-                        <span class="stat-number">?</span>
+                        <span class="stat-number">8</span>
                         <span class="stat-label">Hours</span>
                     </div>
                     <div class="stat-card">
@@ -147,44 +147,48 @@
                 <h2 class="section-title">Featured Speakers</h2>
             </div>
             <div class="speakers-grid">
-                <div class="speaker-card tilt-card">
+                <div class="speaker-card tilt-card" data-speaker="razia">
                     <div class="speaker-image">
-                        <div class="speaker-placeholder">Picture</div>
+                        <img src="images/RaziaSalam.jpeg" alt="Razia Salam" style="object-position: center 20%;">
                         <div class="speaker-glow"></div>
                     </div>
                     <div class="speaker-info">
-                        <h3>Missing Name</h3>
-                        <p>Missing Discipline</p>
+                        <h3>Razia Salam</h3>
+                        <p class="speaker-title">Filmmaker & Storyteller</p>
+                        <button class="read-more-btn">Read More</button>
+                    </div>
+                </div>
+                <div class="speaker-card tilt-card" data-speaker="amrutha">
+                    <div class="speaker-image">
+                        <img src="images/AmruthaFrancis.jpeg" alt="Amrutha Francis">
+                        <div class="speaker-glow"></div>
+                    </div>
+                    <div class="speaker-info">
+                        <h3>Amrutha Francis</h3>
+                        <p class="speaker-title">Parenting Coach</p>
+                        <button class="read-more-btn">Read More</button>
+                    </div>
+                </div>
+                <div class="speaker-card tilt-card" data-speaker="kunjila">
+                    <div class="speaker-image">
+                        <img src="images/Kunjilla.jpeg" alt="Kunjila Mascillamani">
+                        <div class="speaker-glow"></div>
+                    </div>
+                    <div class="speaker-info">
+                        <h3>Kunjila Mascillamani</h3>
+                        <p class="speaker-title">Filmmaker & Writer</p>
+                        <button class="read-more-btn">Read More</button>
                     </div>
                 </div>
                 <div class="speaker-card tilt-card">
                     <div class="speaker-image">
-                        <div class="speaker-placeholder">Picture</div>
+                        <img src="images/Arunima Jayan.jpg" alt="Arunima Jayan">
                         <div class="speaker-glow"></div>
                     </div>
                     <div class="speaker-info">
-                        <h3>Missing Name</h3>
-                        <p>Missing Discipline</p>
-                    </div>
-                </div>
-                <div class="speaker-card tilt-card">
-                    <div class="speaker-image">
-                        <div class="speaker-placeholder">Picture</div>
-                        <div class="speaker-glow"></div>
-                    </div>
-                    <div class="speaker-info">
-                        <h3>Missing Name</h3>
-                        <p>Missing Discipline</p>
-                    </div>
-                </div>
-                <div class="speaker-card tilt-card">
-                    <div class="speaker-image">
-                        <div class="speaker-placeholder">Picture</div>
-                        <div class="speaker-glow"></div>
-                    </div>
-                    <div class="speaker-info">
-                        <h3>Missing Name</h3>
-                        <p>Missing Discipline</p>
+                        <h3>Arunima Jayan</h3>
+                        <p class="speaker-title">Model</p>
+                        <button class="read-more-btn">Read More</button>
                     </div>
                 </div>
             </div>
@@ -224,9 +228,9 @@
                     This independent TEDx event is operated under license from TED.
                 </p>
                 <div class="footer-links">
-                    <a href="#">About TED</a>
+                    <!--<a href="#">About TED</a>
                     <a href="#">Contact Us</a>
-                    <a href="#">Privacy Policy</a>
+                    <a href="#">Privacy Policy</a>--->
                 </div>
             </div>
             <div class="footer-bottom">
@@ -234,6 +238,24 @@
             </div>
         </div>
     </footer>
+
+    <!-- Speaker Modal -->
+    <div id="speaker-modal" class="modal">
+        <div class="modal-overlay"></div>
+        <div class="modal-content">
+            <button class="modal-close">&times;</button>
+            <div class="modal-body">
+                <div class="modal-speaker-image">
+                    <img src="" alt="" id="modal-image">
+                </div>
+                <div class="modal-speaker-info">
+                    <h2 id="modal-name"></h2>
+                    <p class="modal-title" id="modal-title"></p>
+                    <div class="modal-bio" id="modal-bio"></div>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <script src="script.js"></script>
 </body>
