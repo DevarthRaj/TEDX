@@ -823,6 +823,7 @@ body {
     color: var(--text-muted);
     font-size: 0.95rem;
     margin-bottom: 24px;
+    transform: translateX(340px);
 }
 
 .footer-links {
