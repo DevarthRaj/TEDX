@@ -493,7 +493,9 @@ At TEDxMACE’26, Raiza Salam presents The Missing Narrative, shaped by her own 
         image: "images/AmruthaFrancis.jpeg",
         bio: `
 Amrutha Francis is a life coach and educator whose work centres on human connection, self-awareness, and inner clarity. Her journey began in engineering and academia, but listening to people and holding space for their unspoken questions came naturally long before any title.
-Motherhood became a turning point, drawing her into the worlds of child development, emotions, relationships, intimacy, and sexuality. What started as curiosity grew into deep study and a clear shift toward coaching, which she stepped into full-time in 2019.
+Motherhood became a turning point, drawing her into the worlds of child development, emotions, relationships, intimacy, and sexuality.
+
+What started as curiosity grew into deep study and a clear shift toward coaching, which she stepped into full-time in 2019.
 Today, Amrutha works across life coaching, parenting support, relationship and intimacy guidance, sexuality health education, and behavioural coaching rooted in positive psychology, CBT and somatic awareness. 
 Guided by the belief that people already carry their answers within them, she helps individuals and families listen inward and move through change with intention.
 
@@ -524,6 +526,7 @@ was not a change of direction, but a masterclass in versatility. A software engi
 professional model, she is a trailblazer in the pageantry world who has consistently defied 
 the “either–or” logic. Arunima proves that technical precision and creative grace belong in 
 the same room. 
+
 Her victory was more than a personal milestone. It was the culmination of a rigorous journey 
 where she emerged as a standout among hundreds. Beyond the titles of Miss Kerala and 
 Miss Elegant, Arunima has utilized her platform to bridge the gap between different worlds. 
@@ -531,8 +534,9 @@ She shows that leadership is about more than just presence; it is about perspect
 As the Youth Speaker for TEDxMACE 26, Arunima steps into the circle to represent the 
 modern multi-hyphenate. She brings a unique clarity to the stage. She speaks for a 
 generation that refuses to be defined by a single label or a traditional career path. 
-Arunima’s influence lies in her ability to find the human pulse within structured systems. She 
-stands as a symbol of new-age ambition that is bold, analytical, and deeply aware of the 
+Arunima’s influence lies in her ability to find the human pulse within structured systems.
+ 
+She stands as a symbol of new-age ambition that is bold, analytical, and deeply aware of the 
 stories that often get sidelined in the pursuit of perfection. 
 Stepping onto the TEDxMACE’26 stage, Arunima Jayan uncovers 'The Missing Narrative' by 
 exploring the silent blueprints of our identity that dictate who we are long before we find the 
