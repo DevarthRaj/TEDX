@@ -489,7 +489,7 @@ At TEDxMACE’26, Raiza Salam presents The Missing Narrative, shaped by her own 
 
     amrutha: {
         name: "Amrutha Francis",
-        title: "Life Coach & Educator",
+        title: "Parenting Coach",
         image: "images/AmruthaFrancis.jpeg",
         bio: `
 Amrutha Francis is a life coach and educator whose work centres on human connection, self-awareness, and inner clarity. Her journey began in engineering and academia, but listening to people and holding space for their unspoken questions came naturally long before any title.
@@ -518,7 +518,7 @@ Believing in the power of personal narratives to spark meaningful conversations,
 
     arunima: {
         name: "Arunima Jayan",
-        title: "Vanitha Miss Kerala 2025",
+        title: "Model,Vanitha Miss Kerala 2025",
         image: "images/Arunima Jayan.jpg",
         bio: `
 For Arunima Jayan, the path from writing code to claiming the crown of Miss Kerala 2025 
