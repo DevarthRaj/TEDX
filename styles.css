@@ -819,11 +819,20 @@ body {
     margin-left: 4px;
 }
 
-.footer-text {
+.footer-center {
+    text-align: center;
+}
+
+.footer-text,
+.footer-copy {
     color: var(--text-muted);
     font-size: 0.95rem;
-    margin-bottom: 24px;
-    transform: translateX(340px);
+    margin: 0;
+}
+
+.footer-text {
+    margin-bottom: 8px;
+    /* spacing between the two lines */
 }
 
 .footer-links {
