@@ -475,12 +475,12 @@ const speakerData = {
         image: "images/RaziaSalam.jpeg",
         imagePosition: "center 20%",
         bio: `
-Raiza Salam is an independent filmmaker and storyteller who finds meaning in moments often left unnoticed.
+Razia Salam is an independent filmmaker and storyteller who finds meaning in moments often left unnoticed.
 
 She has directed two official music videos, Baaton Baaton Mein and Marap.
 Her video Moving to Finland won First Place at the Fujifilm Vlog Challenge.
 
-A cancer survivor at the age of 23, Raiza brings deeply personal narratives to the screen.
+A cancer survivor at the age of 23, Razia brings deeply personal narratives to the screen.
 
 At TEDxMACE'26, she presents <strong>The Missing Narrative</strong>.
         `
