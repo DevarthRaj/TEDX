@@ -519,9 +519,24 @@ Believing in the power of personal narratives to spark meaningful conversations,
         title: "Vanitha Miss Kerala 2025",
         image: "images/Arunima Jayan.jpg",
         bio: `
-Arunima Jayan is a model and title holder of Vanitha Miss Kerala 2025.
-
-She speaks about confidence, self-expression and breaking stereotypes.
+For Arunima Jayan, the path from writing code to claiming the crown of Miss Kerala 2025 
+was not a change of direction, but a masterclass in versatility. A software engineer and a 
+professional model, she is a trailblazer in the pageantry world who has consistently defied 
+the “either–or” logic. Arunima proves that technical precision and creative grace belong in 
+the same room. 
+Her victory was more than a personal milestone. It was the culmination of a rigorous journey 
+where she emerged as a standout among hundreds. Beyond the titles of Miss Kerala and 
+Miss Elegant, Arunima has utilized her platform to bridge the gap between different worlds. 
+She shows that leadership is about more than just presence; it is about perspective. 
+As the Youth Speaker for TEDxMACE 26, Arunima steps into the circle to represent the 
+modern multi-hyphenate. She brings a unique clarity to the stage. She speaks for a 
+generation that refuses to be defined by a single label or a traditional career path. 
+Arunima’s influence lies in her ability to find the human pulse within structured systems. She 
+stands as a symbol of new-age ambition that is bold, analytical, and deeply aware of the 
+stories that often get sidelined in the pursuit of perfection. 
+Stepping onto the TEDxMACE’26 stage, Arunima Jayan uncovers 'The Missing Narrative' by 
+exploring the silent blueprints of our identity that dictate who we are long before we find the 
+language to explain it.
         `
     }
 };
