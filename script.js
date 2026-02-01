@@ -524,7 +524,7 @@ She stands as a symbol of new-age ambition that is bold, analytical, and deeply 
 
     anna: {
         name: "Anna Raphy",
-        title: "Graphic Illustrator and Animator",
+        title: "Graphic Illustrator",
         image: "images/AnnaRaphy.jpeg",
         bio: `
 A graphic illustrator and animator from Kerala, Anna Raphy has captured hearts on Instagram with animated reels that feel deeply personal, spontaneous, and emotionally alive. What began as a childhood habit of drawing on anything she could find slowly evolved into a powerful creative voice.
