@@ -475,15 +475,11 @@ const speakerData = {
         image: "images/RaziaSalam.jpeg",
         imagePosition: "center 20%",
         bio: `
-Raiza Salam is an independent filmmaker and storyteller who finds meaning in moments often left unnoticed. She began creating films at a very young age, and they often feel like miniature movies- intimate and evocative.
+Raiza Salam is an independent filmmaker and storyteller who finds meaning in moments often left unnoticed. She began creating films at a very young age, and they often feel like miniature movies- intimate and evocative. She has directed two official music videos, Baaton Baaton Mein and Marap. Her video Moving to Finland won First Place at the Fujifilm Vlog Challenge, organized by India Film Project.
 
-She has directed two official music videos, Baaton Baaton Mein and Marap. Her video Moving to Finland won First Place at the Fujifilm Vlog Challenge, organized by India Film Project.
+A cancer survivor at the age of 23, Raiza brings narratives to the screen that are profoundly personal and unmistakably unique. Her work reflects resilience, healing, and an intentional appreciation of life’s smallest moments- an ethos that is beautifully woven into her visual storytelling.
 
-A cancer survivor at the age of 23, Raiza brings narratives to the screen that are profoundly personal and unmistakably unique. Her work reflects resilience, healing, and an intentional appreciation of life’s smallest moments- an ethos that is beautifully woven into her visual storytelling. 
-
-A graduate in design research from Aalto University, specialising in social sustainability and human justice-driven problem solving, she carries these values into her work and writing, using them to inform the stories she chooses to tell.
-
-At TEDxMACE’26, Raiza Salam presents The Missing Narrative, shaped by her own journey of artistic expression- where lived moments slowly find their voice through storytelling.
+A graduate in design research from Aalto University, specialising in social sustainability and human justice-driven problem solving, she carries these values into her work and writing, using them to inform the stories she chooses to tell. At TEDxMACE’26, Raiza Salam presents The Missing Narrative, shaped by her own journey of artistic expression- where lived moments slowly find their voice through storytelling.
         `
     },
 
@@ -492,14 +488,11 @@ At TEDxMACE’26, Raiza Salam presents The Missing Narrative, shaped by her own 
         title: "Parenting Coach",
         image: "images/AmruthaFrancis.jpeg",
         bio: `
-Amrutha Francis is a life coach and educator whose work centres on human connection, self-awareness, and inner clarity. Her journey began in engineering and academia, but listening to people and holding space for their unspoken questions came naturally long before any title.
-Motherhood became a turning point, drawing her into the worlds of child development, emotions, relationships, intimacy, and sexuality.
+Amrutha Francis is a life coach and educator whose work centres on human connection, self-awareness, and inner clarity. Her journey began in engineering and academia, but listening to people and holding space for their unspoken questions came naturally long before any title. Motherhood became a turning point, drawing her into the worlds of child development, emotions, relationships, intimacy, and sexuality.
 
 What started as curiosity grew into deep study and a clear shift toward coaching, which she stepped into full-time in 2019.
-Today, Amrutha works across life coaching, parenting support, relationship and intimacy guidance, sexuality health education, and behavioural coaching rooted in positive psychology, CBT and somatic awareness. 
-Guided by the belief that people already carry their answers within them, she helps individuals and families listen inward and move through change with intention.
 
-
+Today, Amrutha works across life coaching, parenting support, relationship and intimacy guidance, sexuality health education, and behavioural coaching rooted in positive psychology, CBT and somatic awareness. Guided by the belief that people already carry their answers within them, she helps individuals and families listen inward and move through change with intention.
         `
     },
 
@@ -521,29 +514,28 @@ Believing in the power of personal narratives to spark meaningful conversations,
         title: "Model,Vanitha Miss Kerala 2025",
         image: "images/Arunima Jayan.jpg",
         bio: `
-For Arunima Jayan, the path from writing code to claiming the crown of Miss Kerala 2025 
-was not a change of direction, but a masterclass in versatility. A software engineer and a 
-professional model, she is a trailblazer in the pageantry world who has consistently defied 
-the “either–or” logic. Arunima proves that technical precision and creative grace belong in 
-the same room. 
+For Arunima Jayan, the path from writing code to claiming the crown of Miss Kerala 2025 was not a change of direction, but a masterclass in versatility. A software engineer and a professional model, she is a trailblazer in the pageantry world who has consistently defied the “either–or” logic. Arunima proves that technical precision and creative grace belong in the same room.
 
-Her victory was more than a personal milestone. It was the culmination of a rigorous journey 
-where she emerged as a standout among hundreds. Beyond the titles of Miss Kerala and 
-Miss Elegant, Arunima has utilized her platform to bridge the gap between different worlds. 
-She shows that leadership is about more than just presence; it is about perspective. 
-As the Youth Speaker for TEDxMACE 26, Arunima steps into the circle to represent the 
-modern multi-hyphenate. She brings a unique clarity to the stage. She speaks for a 
-generation that refuses to be defined by a single label or a traditional career path. 
-Arunima’s influence lies in her ability to find the human pulse within structured systems.
- 
-She stands as a symbol of new-age ambition that is bold, analytical, and deeply aware of the 
-stories that often get sidelined in the pursuit of perfection. 
-Stepping onto the TEDxMACE’26 stage, Arunima Jayan uncovers 'The Missing Narrative' by 
-exploring the silent blueprints of our identity that dictate who we are long before we find the 
-language to explain it.
+Her victory was more than a personal milestone. It was the culmination of a rigorous journey where she emerged as a standout among hundreds. Beyond the titles of Miss Kerala and Miss Elegant, Arunima has utilized her platform to bridge the gap between different worlds. She shows that leadership is about more than just presence; it is about perspective. As the Youth Speaker for TEDxMACE 26, Arunima steps into the circle to represent the modern multi-hyphenate. She brings a unique clarity to the stage. She speaks for a generation that refuses to be defined by a single label or a traditional career path. Arunima’s influence lies in her ability to find the human pulse within structured systems.
+
+She stands as a symbol of new-age ambition that is bold, analytical, and deeply aware of the stories that often get sidelined in the pursuit of perfection. Stepping onto the TEDxMACE’26 stage, Arunima Jayan uncovers 'The Missing Narrative' by exploring the silent blueprints of our identity that dictate who we are long before we find the language to explain it.
+        `
+    },
+
+    anna: {
+        name: "Anna Raphy",
+        title: "Graphic Illustrator and Animator",
+        image: "images/AnnaRaphy.jpeg",
+        bio: `
+A graphic illustrator and animator from Kerala, Anna Raphy has captured hearts on Instagram with animated reels that feel deeply personal, spontaneous, and emotionally alive. What began as a childhood habit of drawing on anything she could find slowly evolved into a powerful creative voice.
+
+Though she initially chose architecture as a “logical” career path, Anna soon realised her heart lay elsewhere. She took the leap into animation, armed with just a mouse, Photoshop, and an unshakeable determination to make things move. Her instinctive, unplanned creative process has led to some of her most loved works, including her tribute to Aavesham, Illuminati and the widely shared Naadan Parindey reel, pieces that resonated because they felt honest, playful, and deeply human.
+
+Anna’s work stands out not for perfection, but for emotion. Each reel carries a piece of her story, proof that when art is personal, it finds its people. At TEDxMACE’26, Anna Raphy brings The Missing Narrative - the stories we feel before we ever put them into words.
         `
     }
 };
+
 
 function initSpeakerModal() {
     const modal = document.getElementById('speaker-modal');
