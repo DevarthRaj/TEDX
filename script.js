@@ -472,7 +472,7 @@ const speakerData = {
     razia: {
         name: "Raiza Salam",
         title: "Filmmaker & Storyteller",
-        image: "images/RaziaSalam.jpeg",
+        image: "images/RaizaSalam.png",
         imagePosition: "center 20%",
         bio: `
 Raiza Salam is an independent filmmaker and storyteller who finds meaning in moments often left unnoticed. She began creating films at a very young age, and they often feel like miniature movies- intimate and evocative. She has directed two official music videos, Baaton Baaton Mein and Marap. Her video Moving to Finland won First Place at the Fujifilm Vlog Challenge, organized by India Film Project.
@@ -486,7 +486,7 @@ A graduate in design research from Aalto University, specialising in social sust
     amrutha: {
         name: "Amrutha Francis",
         title: "Parenting Coach",
-        image: "images/AmruthaFrancis.jpeg",
+        image: "images/AmruthaFrancis.png",
         bio: `
 Amrutha Francis is a life coach and educator whose work centres on human connection, self-awareness, and inner clarity. Her journey began in engineering and academia, but listening to people and holding space for their unspoken questions came naturally long before any title. Motherhood became a turning point, drawing her into the worlds of child development, emotions, relationships, intimacy, and sexuality.
 
@@ -499,7 +499,7 @@ Today, Amrutha works across life coaching, parenting support, relationship and i
     kunjila: {
         name: "Kunjila Mascillamani",
         title: "Filmmaker & Writer",
-        image: "images/Kunjilla.jpeg",
+        image: "images/Kunjila.png",
         bio: `
 Kunjila Mascillamani is an independent filmmaker and writer whose work challenges conventions and foregrounds voices often left unheard. With a strong commitment to authenticity and lived experience, her storytelling reflects a deeply personal yet socially conscious perspective.
 
@@ -512,7 +512,7 @@ Believing in the power of personal narratives to spark meaningful conversations,
     arunima: {
         name: "Arunima Jayan",
         title: "Model,Vanitha Miss Kerala 2025",
-        image: "images/Arunima Jayan.jpg",
+        image: "images/ArunimaJayan.png",
         bio: `
 For Arunima Jayan, the path from writing code to claiming the crown of Miss Kerala 2025 was not a change of direction, but a masterclass in versatility. A software engineer and a professional model, she is a trailblazer in the pageantry world who has consistently defied the “either–or” logic. Arunima proves that technical precision and creative grace belong in the same room.
 
