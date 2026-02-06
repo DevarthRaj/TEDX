@@ -533,6 +533,19 @@ Though she initially chose architecture as a “logical” career path, Anna soo
 
 Anna’s work stands out not for perfection, but for emotion. Each reel carries a piece of her story, proof that when art is personal, it finds its people. At TEDxMACE’26, Anna Raphy brings The Missing Narrative - the stories we feel before we ever put them into words.
         `
+    },
+
+    vasuki: {
+        name: "Dr K Vasuki",
+        title: "IAS Officer",
+        image: "images/VasukiIas.png",
+        bio: `
+A doctor by training and a civil servant by choice, Dr. K. Vasuki’s journey is shaped by a deep concern for people and the systems that govern their lives. What began in medicine, through listening and care, gradually expanded into a larger question of how institutions respond to human needs.
+
+As an officer of the Indian Administrative Service, she has carried this perspective into public life. Her work across education, labour, and social welfare reflects a consistent effort to place lived experience at the centre of policy, guided by the belief that governance must remain grounded in empathy and awareness.Her academic engagement with psychology further strengthened this outlook, allowing her to examine leadership not only as a position of authority, but as a personal responsibility.
+
+ These reflections come together in her book, The School of Life, which explores power, purpose, and the emotional realities that accompany public service.At TEDxMACE’26, Dr. K. Vasuki brings The Missing Narrative—the human stories that shape leadership long before they enter policy.
+        `
     }
 };
 
