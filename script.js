@@ -536,7 +536,7 @@ Anna’s work stands out not for perfection, but for emotion. Each reel carries 
     },
 
     vasuki: {
-        name: "Dr K Vasuki",
+        name: "Dr.K.Vasuki",
         title: "IAS Officer",
         image: "images/VasukiIas.png",
         bio: `
